@@ -80,5 +80,5 @@ AI developing
 > 
 > 사용기술 : OpenVINO
 >
-> ## Contact
+> ## 📞 Contact
 > baebueh@gmail.com
