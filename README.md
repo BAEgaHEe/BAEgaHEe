@@ -79,3 +79,6 @@ AI developing
 > &nbsp;&nbsp;&nbsp;기 간 : 2024. 04. 19 ~
 > 
 > 사용기술 : OpenVINO
+>
+> ## Contact
+> baebueh@gmail.com
