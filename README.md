@@ -21,7 +21,7 @@ AI developing
 ![c](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) 
 ![d](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) 
 ![e](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) 
-![f](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the badge&logo=stmicroelectronics&logoColor=white)
+![f](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) 
 
 ## ✨ Projects
 > #### 1. 시력측정, 색맹 판별을 위한 밝기와 on/off를 버튼(스위치)로 조절 가능한 LED 전광판 제작   
