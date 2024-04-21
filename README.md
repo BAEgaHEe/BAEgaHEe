@@ -1,4 +1,4 @@
-# BAE Buehee-Portfolio
+# Buehee BAE-Portfolio
 
 # Intro
 안녕하세요
