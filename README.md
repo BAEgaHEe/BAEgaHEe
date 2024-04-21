@@ -13,8 +13,7 @@ AI developing
 ![c](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=Csharp&logoColor=white) 
 ![d](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white ) 
 ![e](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) 
-![f](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![g](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white)
+![f](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ## 🛠 IDE
 ![a](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) 
@@ -46,22 +45,27 @@ AI developing
 
 > #### 5. Infectious Disease Prediction 예측 AI 구현,구동과 AI App 개발  
 > &nbsp;&nbsp;&nbsp;설 명 : accuracy  99.9%
+> 
 > 사용기술 : 데이터셋, model, PyQT
 >
 > #### 6. 뷰티GAN을 활용한 성형전후, 화장전후 예측 AI 구현,시뮬레이팅 구동과 App 개발  
 > &nbsp;&nbsp;&nbsp;설 명 : 생성AI, 환자의 성형전후의 만족도를 높이기 위한 영상 시뮬레이션에 초점을 둠
+> 
 > 사용기술 : 데이터셋, model, PyQT
 >
 > #### 7. 예측tree를 활용한 갤**휴대폰 판매에 있어서 소비자들이 고려하는 항목(디자인, 무게, 시리즈 등) ranking 예측 AI 구현  
 > &nbsp;&nbsp;&nbsp;설 명 : 데이터셋, 지니계수,, 판매전략수립 또는 시장조사를 할 때 굉장히 유용함
+> 
 > 사용기술 : 데이터셋, model, 데이터 분석력
 
 ## 🎞 실무 Project
 > #### 1. CCTV 보안시스템으로 영상분석 후 AI developing (진행중)  
 > &nbsp;&nbsp;&nbsp;설 명 : CCTV 보안시스템, OTP
+> 
 > 사용기술 : 컴퓨터비전, 영상 분석, 데이터셋, model, Python
 >
 > #### 2. K-헤커톤 (진행중)  
 > &nbsp;&nbsp;&nbsp;설 명 :  
 > &nbsp;&nbsp;&nbsp;기 간 : 2024. 04. 19 ~
+> 
 > 사용기술 : OpenVino
